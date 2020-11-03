@@ -116,9 +116,6 @@ li a:hover {
 		position:absolute; left: 0px; top:200px;
 		}
 
-    * {
-	    box-sizing:border-box
-}
 
     .slideshow-container {
       max-width: 1000px;
